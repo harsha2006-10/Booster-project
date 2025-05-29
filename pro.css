@@ -170,8 +170,8 @@ section p {
 }
 
 footer {
-    text-align: center;
-    padding: 20px 0;
+    text-align: right;
+    padding: 25px 0;
     background: #ebe6e6;
     color: #030101;
     position: relative;
@@ -193,7 +193,7 @@ footer h2 {
 }
 
 .contact-info p {
-    margin: 5px 0;
+i    margin: 5px 0;
     font-size: 1em;
 }
 
